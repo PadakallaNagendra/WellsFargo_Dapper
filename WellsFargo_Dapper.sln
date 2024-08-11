@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellsFargo_Dapper", "WellsFargo_Dapper\WellsFargo_Dapper.csproj", "{E6ED73D9-2914-49C2-B0B3-E6EC13AB7354}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellsFargo_BusinessEntities", "WellsFargo_BusinessEntities\WellsFargo_BusinessEntities.csproj", "{4DF1BAC6-E3E5-4D2D-BE42-8EF5AD438624}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellsFargo_Dapper_RepositoryLayer", "WellsFargo_Dapper_RepositoryLayer\WellsFargo_Dapper_RepositoryLayer.csproj", "{726CFF89-6E4A-4A16-96B3-9747A29FF2D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellsFargo_Dapper_ServiceLayer", "WellsFargo_Dapper_ServiceLayer\WellsFargo_Dapper_ServiceLayer.csproj", "{2DF40546-D4C8-4C66-871D-588B5A9D850E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WellsFargo_Dapper_DatabaseLogic", "WellsFargo_Dapper_DatabaseLogic\WellsFargo_Dapper_DatabaseLogic.csproj", "{BD2FD212-D8D5-489A-B7C6-306F2D88E444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WellsFargo.Utilis", "WellsFargo.Utilis\WellsFargo.Utilis.csproj", "{DE5E90BF-F6DE-4CB7-8B32-5538B080EBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6ED73D9-2914-49C2-B0B3-E6EC13AB7354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ED73D9-2914-49C2-B0B3-E6EC13AB7354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ED73D9-2914-49C2-B0B3-E6EC13AB7354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ED73D9-2914-49C2-B0B3-E6EC13AB7354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF1BAC6-E3E5-4D2D-BE42-8EF5AD438624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF1BAC6-E3E5-4D2D-BE42-8EF5AD438624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF1BAC6-E3E5-4D2D-BE42-8EF5AD438624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF1BAC6-E3E5-4D2D-BE42-8EF5AD438624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726CFF89-6E4A-4A16-96B3-9747A29FF2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726CFF89-6E4A-4A16-96B3-9747A29FF2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726CFF89-6E4A-4A16-96B3-9747A29FF2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726CFF89-6E4A-4A16-96B3-9747A29FF2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF40546-D4C8-4C66-871D-588B5A9D850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF40546-D4C8-4C66-871D-588B5A9D850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF40546-D4C8-4C66-871D-588B5A9D850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF40546-D4C8-4C66-871D-588B5A9D850E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2FD212-D8D5-489A-B7C6-306F2D88E444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2FD212-D8D5-489A-B7C6-306F2D88E444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2FD212-D8D5-489A-B7C6-306F2D88E444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2FD212-D8D5-489A-B7C6-306F2D88E444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5E90BF-F6DE-4CB7-8B32-5538B080EBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5E90BF-F6DE-4CB7-8B32-5538B080EBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5E90BF-F6DE-4CB7-8B32-5538B080EBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5E90BF-F6DE-4CB7-8B32-5538B080EBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {617E953A-362E-4FA2-BF50-90D702E74502}
+	EndGlobalSection
+EndGlobal
